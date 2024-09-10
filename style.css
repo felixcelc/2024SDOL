@@ -5,3 +5,7 @@ body{
 p{
     color: rgb(212, 146, 124);
 }
+
+h1{
+    font-style: oblique;
+}

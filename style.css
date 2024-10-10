@@ -9,12 +9,10 @@ p{
 
 h1{
     font-style: oblique;
+    color: rgb(212, 146, 124);
 }
 
-.insidejoke {
-    color: rgb(212, 76, 76);
+h2{
+    color: rgb(212, 146, 124);
 }
 
-.goth {
-    width: 45%;
-}
